@@ -1,2 +1,2 @@
 # Python-Miscellany
-Miscellaneous Python files
+Miscellaneous Python programs using various modules such as SciPy, NumPy, and PyPlot
